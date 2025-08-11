@@ -1,0 +1,26 @@
+h1,h2,h3{
+    color:rgb(173, 119, 47);
+   
+    display: flexbox;
+    text-transform: calc();
+    text-decoration: dotted;
+    text-shadow: 3px 4px 5px rgb(18, 137, 184);
+    font-weight: 500;
+}
+body{
+    background-color: rgb(37, 36, 33);
+    font-weight:200;
+    background-image:url(/home/student/Downloads/pexels-photo-281260.webp);
+    margin-top: 30px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    
+}
+p{
+    color:beige;
+    font-style: oblique;
+    font: display 3px; 
+    font-size: medium;
+    text-decoration: overline;
+    text-shadow: 5px 6px 8px solid teal;
+}
