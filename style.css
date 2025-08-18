@@ -1,26 +1,39 @@
-h1,h2,h3{
-    color:rgb(173, 119, 47);
+h1{
+    font-style: oblique;
+
+    text-align: center;
+    color: bisque;
+    text-decoration: underline;
+    
+ }
+ img{
+    box-shadow: 5px solid rgb(146, 151, 68);
+    border: 5px solid black;
    
+ }
+ 
+ h2,h3{
+
+    color:rgb(173, 119, 47);
+    text-align: center; 
     display: flexbox;
-    text-transform: calc();
+    font-style: oblique;
     text-decoration: dotted;
     text-shadow: 3px 4px 5px rgb(18, 137, 184);
     font-weight: 500;
 }
 body{
-    background-color: rgb(37, 36, 33);
+    background-image: url(360_F_391461057_5P0BOWl4lY442Zoo9rzEeJU0S2c1WDZR.jpg);
+    
+   
     font-weight:200;
-    background-image:url(/home/student/Downloads/pexels-photo-281260.webp);
+    
     margin-top: 30px;
     margin-top: 30px;
     margin-bottom: 20px;
+    align-content: centers;
     
 }
-p{
-    color:beige;
-    font-style: oblique;
-    font: display 3px; 
-    font-size: medium;
-    text-decoration: overline;
-    text-shadow: 5px 6px 8px solid teal;
+body img{
+    opacity;0.2;
 }
